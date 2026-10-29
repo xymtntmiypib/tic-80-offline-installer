@@ -30,16 +30,16 @@
 
 ## 📖 About TIC-80
 
-TIC-80 is a free, open-source fantasy computer for making, playing, and sharing tiny games. It provides a complete development environment including code editor, sprite editor, sound editor, and map editor — all within a retro 240x136 display constraint.
+TIC-80 is a free, open-source fantasy computer for making, playing, and sharing tiny games. With a built-in code editor, sprite editor, map editor, sound editor, and music tracker, TIC-80 provides a complete retro-style game development environment in a self-contained package. Games are limited to 240×136 pixels and eight colors, encouraging creative problem-solving within constraints.
 
 ---
 
 ## ❌ Problem: TIC-80 is hard to access
 
-- **Deliberate Constraints** — Fixed screen size and hardware limits are intentional but may frustrate
-- **Lua/WASM/etc Required** — Game logic requires programming knowledge in supported languages
-- **Limited Distribution** — Game sharing primarily through the TIC-80 website
-- **Niche Audience** — Fantasy console community smaller than mainstream game development
+- **Constrained by Design** — Fixed resolution and color palette limit certain game types
+- **Niche Audience** — Fantasy console programming appeals to a specific community
+- **Commercial Game Limitations** — Constraint-based games may not have mainstream appeal
+- **Learning Curve** — Lua/JavaScript programming required for game creation
 
 ---
 
